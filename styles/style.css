@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar, footer {
+    background-color: #1d2951 !important;
+}
+
+main{
+    flex: 1 0 auto;
+}
+
+#footer-para{
+    line-height: 24px;
+}
